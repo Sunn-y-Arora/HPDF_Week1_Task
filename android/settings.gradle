@@ -1,0 +1,3 @@
+rootProject.name = 'HPDF_Week1_Task'
+
+include ':app'
