@@ -12,7 +12,12 @@ To run this app follow these steps.
       i.  npm install native-base --save
       ii. react-native link
       iii. npm install native-navigator --save
-  6. After running the above commands to run on android
+  6. Start you emulator first, Once the emulator is successfully started then proceeds further
+  7. After running the above commands to run on android
         type :  <b> react-native run-android </b>
-  7. After running the above commands to run on iOS emulator
+  8. After running the above commands to run on iOS emulator
         <b> react-native run-ios</b>
+
+
+
+NOTE : For troubleshooting follow this <b><a href="https://facebook.github.io/react-native/docs/troubleshooting.html">link</a></b>
