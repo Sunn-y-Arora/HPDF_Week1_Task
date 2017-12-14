@@ -17,12 +17,10 @@ This is a APP having views similar to Twitter App , made for Week 1 Task for Has
       <code> git clone https://github.com/Sunn-y-Arora/HPDF_Week1_Task</code><br>
       
   5. cd into the Project directory and install the dependencies<br>
-  
-      <code>npm install<br>
-  </code>
+      <code>npm install</code><br>
   6. Start you emulator first, Once the emulator is successfully started then proceeds further<br>
   7. After running the above commands to run on android<br>
-        type :  <code><b> react-native run-android </b></code><br>
+         <code><b> react-native run-android </b></code><br>
   8. After running the above commands to run on iOS emulator<br>
         <code><b> react-native run-ios</b></code><br>
 <br>
